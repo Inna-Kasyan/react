@@ -13,7 +13,6 @@ interface FormState {
   techstack: string;
   lastProject: string;
 
-
 }
 
 const defaultState = {
